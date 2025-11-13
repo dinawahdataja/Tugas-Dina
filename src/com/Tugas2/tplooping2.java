@@ -1,4 +1,4 @@
-package com;
+package com.Tugas2;
 public class tplooping2 {
     public static void main(String[] args) {
         int tinggi = 7; 

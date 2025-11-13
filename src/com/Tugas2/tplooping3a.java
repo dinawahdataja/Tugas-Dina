@@ -1,4 +1,4 @@
-package com;
+package com.Tugas2;
 import java.util.Scanner;
 
 public class tplooping3a {
